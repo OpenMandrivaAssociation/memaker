@@ -1,7 +1,7 @@
 Name:		memaker
 # revision number..
 Version:	r49
-Release:	1
+Release:	2
 Summary:	An avatar creator
 
 Group:		Graphics
